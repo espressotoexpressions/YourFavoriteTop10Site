@@ -1,7 +1,9 @@
 :root
 {
     --lightbeige: #F8F1E8;
-    --brown: #A16D43;
+    --darkbeige: #F2DFC7;
+    --brown: #A38064;
+    --darkbrown: #57473A;
 }
 body
 {
@@ -9,6 +11,11 @@ body
 }
 h1
 {
+    color:var(--lightbeige);
+}
+h3{
+    color: var(--darkbrown);
+    
 }
 .andStyle
 {
@@ -17,7 +24,6 @@ h1
 }
 .header-blue{
     background: #73A1B2;
-    color:#F8F1E8;
 }
 .navButton{
     background-color: #F8F1E8;
@@ -33,9 +39,30 @@ h1
 .activeNavButton
 {
     background-color: #F2DFC7;
+    color: var(--brown);
 }
 
 .iconbuttons
 {
      color: var(--lightbeige);
+}
+
+
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.cardFormat{
+    background-color: var(--darkbeige);
+}
+
+.cardDesc
+{
+    background-color: var(--brown);
+    padding:15px;
+    
 }
