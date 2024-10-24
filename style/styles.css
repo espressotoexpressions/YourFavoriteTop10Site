@@ -9,11 +9,6 @@ body
     background-color: var(--lightbeige);
 }
 
-h1
-{
-    font-family: Title Hero;
-}
-
 .andStyle
 {
     color: #A16D43;
@@ -28,7 +23,7 @@ h1
 .navButton{
     background-color: #F8F1E8;
     color: var(--brown);
-    
+    font-family:cursive;
 }
 
 .navButton:hover{
@@ -43,5 +38,22 @@ h1
 
 .iconbuttons
 {
-     color: var(--lightbeige);
+    color: var(--lightbeige);
+}
+
+.welcome
+{
+    font-family: cursive;
+    font-size: 100px;
+}
+
+.welcome-color
+{
+    color:#57473A ;
+    background-color: #F2DFC7;
+}
+
+.tall
+{
+    height: 250px;
 }
