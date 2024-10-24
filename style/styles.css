@@ -83,12 +83,13 @@ h6{
 {
     font-family: cursive;
     font-size: 100px;
+    color: var(--darkbrown)
 }
 
 .welcome-color
 {
-    color:#57473A ;
-    background-color: #F2DFC7;
+    color: var(--darkbrown);
+    background-color: var(--darkbeige);
 }
 
 .tall
