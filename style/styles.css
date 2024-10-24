@@ -21,6 +21,9 @@ h3{
     color: var(--darkbrown);
     
 }
+h6{
+    color: var(--lightbeige);
+}
 
 .andStyle
 {
