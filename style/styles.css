@@ -5,6 +5,7 @@
     --brown: #A38064;
     --darkbrown: #57473A;
 }
+
 body
 {
     background-color: var(--lightbeige);
@@ -17,18 +18,21 @@ h3{
     color: var(--darkbrown);
     
 }
+
 .andStyle
 {
     color: #A16D43;
     font-size: larger;
 }
+
 .header-blue{
     background: #73A1B2;
 }
+
 .navButton{
     background-color: #F8F1E8;
     color: var(--brown);
-    
+    font-family:cursive;
 }
 
 .navButton:hover{
@@ -65,4 +69,23 @@ h3{
     background-color: var(--brown);
     padding:15px;
     
+}
+    /* color: var(--lightbeige);
+} */
+
+.welcome
+{
+    font-family: cursive;
+    font-size: 100px;
+}
+
+.welcome-color
+{
+    color:#57473A ;
+    background-color: #F2DFC7;
+}
+
+.tall
+{
+    height: 250px;
 }
