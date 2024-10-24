@@ -1,0 +1,41 @@
+:root
+{
+    --lightbeige: #F8F1E8;
+    --brown: #A16D43;
+}
+body
+{
+    background-color: var(--lightbeige);
+}
+h1
+{
+}
+.andStyle
+{
+    color: #A16D43;
+    font-size: larger;
+}
+.header-blue{
+    background: #73A1B2;
+    color:#F8F1E8;
+}
+.navButton{
+    background-color: #F8F1E8;
+    color: var(--brown);
+    
+}
+
+.navButton:hover{
+    background-color: #F2DFC7;
+    color:var(--brown);
+}
+
+.activeNavButton
+{
+    background-color: #F2DFC7;
+}
+
+.iconbuttons
+{
+     color: var(--lightbeige);
+}
