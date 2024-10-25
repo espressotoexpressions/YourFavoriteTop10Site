@@ -24,8 +24,10 @@ h3{
     color: var(--darkbrown);
     
 }
+/*footer text */
 h6{
     color: var(--lightbeige);
+    margin-bottom: 0px;
 }
 
 .andStyle
