@@ -55,13 +55,12 @@ h6{
 }
 
 
-.iconbuttons
-{
+.iconbuttons{
      color: var(--lightbeige);
 }
 
 
-.iframe-container iframe {
+.iframe-container iframe{
     position: absolute;
     top: 0;
     left: 0;
@@ -73,8 +72,7 @@ h6{
     background-color: var(--darkbeige);
 }
 
-.cardDesc
-{
+.cardDesc{
     background-color: var(--brown);
     padding:15px;
     
@@ -87,13 +85,11 @@ h6{
     color: var(--darkbrown)
 }
 
-.welcome-color
-{
+.welcome-color{
     color: var(--darkbrown);
     background-color: var(--darkbeige);
 }
 
-.tall
-{
+.tall{
     height: 250px;
 }
