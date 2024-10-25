@@ -14,9 +14,15 @@ h1
 {
     color:var(--lightbeige);
 }
+h2 {
+    color: var(--darkbrown);
+}
 h3{
     color: var(--darkbrown);
     
+}
+h6{
+    color: var(--lightbeige);
 }
 
 .andStyle
